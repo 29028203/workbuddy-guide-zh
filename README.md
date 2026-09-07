@@ -2,11 +2,17 @@
 
 腾讯 AI 办公工作台 WorkBuddy 的中文教程与使用指南合集：安装、Skill、提示词、日常办公实战。内容整理自老手村官网。
 
-**完整教程与持续更新见官网：[老手村](https://www.laoshoucun.com/workbuddy)**
+**官方持续更新入口：[老手村 官网](https://www.laoshoucun.com/workbuddy)** —— 完整教程与最新文章以官网为准，本仓库为定期同步的中文内容镜像。
 
-> 本文档仓库共收录 **26 篇**（教程 26 篇 / 版本动态 0 篇），内容自动同步自 [老手村](https://www.laoshoucun.com/)。
+## 仓库简介
 
-## 教程指南
+本仓库把 老手村 上「WorkBuddy 中文使用指南」主题的公开文章收拢为 Markdown 合集：每篇文档顶部与文末都保留了官网原文链接，可在线阅读，也可以 `git clone` 到本地，用于检索、离线阅读或交给 AI 工具做学习总结。
+
+## 目录结构
+
+- `docs/` — 教程与使用指南（26 篇）：安装、上手、场景实战、答疑。
+
+## 教程与指南
 
 - [WorkBuddy第一个任务：从登录到出结果，新手照做就行](https://www.laoshoucun.com/jiaocheng/2972) · [📄 仓库内阅读](docs/2972-WorkBuddy第一个任务：从登录到出结果，新手照做就行.md)
 - [WorkBuddy Mac安装教程：苹果电脑怎么装](https://www.laoshoucun.com/jiaocheng/2971) · [📄 仓库内阅读](docs/2971-WorkBuddyMac安装教程：苹果电脑怎么装.md)
