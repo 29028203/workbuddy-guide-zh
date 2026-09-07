@@ -47,6 +47,6 @@ WorkBuddy 是腾讯云 CodeBuddy 团队基于 OpenClaw 开源生态打造的全�
 
 ---
 
-**官方持续更新入口：[老手村 官网](https://www.laoshoucun.com/workbuddy)**
+**官方持续更新入口：[WorkBuddy](https://www.laoshoucun.com/workbuddy)**
 
 © [老手村](https://www.laoshoucun.com/) · 本仓库为官网内容镜像，文章版权归原作者所有。
